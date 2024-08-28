@@ -1,11 +1,11 @@
-## Hi there 👋
+<h1 align="center">I'm Adam Poonah!</h1>
+<h3 align="center">Passionate Fourth-Year Electrical Engineering Student with an Interest on Power Systems and Power Electronics</h3>
 
-<!--
-**adapn/adapn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- **⚡I’m currently working on a Voltage Controlled Oscillator (VCO)**
+  - Currently developing a +/-12V dual-rail power supply from a mains voltage wall adapter.
+  - Develope a saw-tooth waveforms complying with 1V/Octive standard using a Schmitt trigger a diodes.
+  - Use waveshaping circuits to go from sawtooth to square, and then to sine utilizing non-inverting op-amps.
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
