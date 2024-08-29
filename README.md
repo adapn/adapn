@@ -7,7 +7,7 @@
   - Develope a saw-tooth waveforms complying with 1V/Octive standard using a Schmitt trigger a diodes.
   - Use waveshaping circuits to go from sawtooth to square, and then to sine utilizing non-inverting op-amps.
 
-**🌱 I’m intersted in High Voltage and Low Voltage Systems****
+**🌱 I’m intersted in High Voltage and Low Voltage Systems**
   - My previous experience has allowed me to work on various high voltage projects, such as 27.kV distribution systems, 600V:120/208V transformers, and up to 5000V Cables.
   - Labs and personal projects have provided me with low voltage experience such as a DC-DC power supply, embeeded systems and power electronics.
 
