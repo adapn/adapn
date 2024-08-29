@@ -21,6 +21,5 @@
   - Conducted various load analysis for Toronto's 13.8kV overhead and underground feeder system.
   - Completed feeder request up to 5MVA of power for commercial buildings. 
 
-
-** 📫 Contact me! **
+**📫 Contact me!**
 - LinkedIn -> [https://www.linkedin.com/in/adam-poonah/]([url](https://www.linkedin.com/in/adam-poonah/))
